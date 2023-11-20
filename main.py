@@ -13,7 +13,7 @@ def check_dates():
     if date1 > date2:
         raise ValueError('первая дата должна быть больше второй')
     return
-
+#первые изменения
 
 def next_month(d):
     try:
