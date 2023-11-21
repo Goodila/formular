@@ -9,5 +9,3 @@ def some_func2(a, b):
 
 def some_func3():
     pass
-
-#serv comment
